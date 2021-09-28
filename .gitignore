@@ -1,0 +1,15 @@
+results/
+data/
+error_analysis_plot/
+*.npy
+*.pyc
+*.pickle
+__pycache__/
+img
+error_analysis
+.ipynb_checkpoints
+slurm/
+runs/
+save/
+.DS_Store
+*.csv
